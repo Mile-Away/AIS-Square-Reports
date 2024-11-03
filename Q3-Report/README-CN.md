@@ -44,7 +44,7 @@ DeePMD-kit V3.0.0 beta4版本发布，新功能和优化：
         | [2.2.0-b3](https://www.aissquare.com/models/detail?pageType=models&name=DPA-2.2.0-v3.0.0b3&id=272)        | 6.3                       |
     -  适配 V3.0.0 beta4 代码的 DPA2 small 和 large 预训练模型将在后续发布。更多信息见AIS Square主页：https://www.aissquare.com/openlam。
 - __其他领域模型更新__：
-    -   合金领域模型：开发了针对大模型的property-driven fine-tuning工作流，可同时对多种性质进行fine-tune，为得到针对特定应用的势函数模型提供助力，相应的bohrium notebook在[Finetune Alloy Property using APEX + DPGen2 | Bohrium](https://bohrium.dp.tech/notebooks/38767882597)。
+    -   合金领域模型：开发了针对大模型的property-driven fine-tuning工作流，可同时对多种性质进行fine-tune，为得到针对特定应用的势函数模型提供助力，相应的bohrium notebook在[Finetune Alloy Property using APEX + DPGen2 | Bohrium](https://bohrium.dp.tech/notebooks/38767882597)。DPA-1&2合金大模型已上传至[AISSquare](https://www.aissquare.com/models/detail?pageType=models&name=DPA-1%262-53-alloy-multitask-400w&id=280)。
 
 ## 社区
 
