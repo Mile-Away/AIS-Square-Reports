@@ -46,7 +46,7 @@ Dataset link: https://www.aissquare.com/datasets/detail?pageType=datasets&name=M
 
     -  DPA2 small and large pre-trained models adapted to V3.0.0 Beta4 code will be released in the future. For more information, see the AIS-Square homepage: https://www.aissquare.com/openlam
 - __Other Domain Model Updates__：
-    -   __Alloy Domain Model__: we developed a property-driven fine-tuning workflow for large atomic models, which can fine-tune multiple properties at the same time, providing assistance for obtaining potential function models for specific applications. The corresponding bohrium notebook can be found at[Finetune Alloy Property using APEX + DPGen2 | Bohrium](https://bohrium.dp.tech/notebooks/38767882597)。
+    -   __Alloy Domain Model__: we developed a property-driven fine-tuning workflow for large atomic models, which can fine-tune multiple properties at the same time, providing assistance for obtaining potential function models for specific applications. The corresponding bohrium notebook can be found at[Finetune Alloy Property using APEX + DPGen2 | Bohrium](https://bohrium.dp.tech/notebooks/38767882597)。The Alloy Domain Models (DPA1 & DPA2) have been uploaded to [AISSquare](https://www.aissquare.com/models/detail?pageType=models&name=DPA-1%262-53-alloy-multitask-400w&id=280).
 
 ## Comunity
 
